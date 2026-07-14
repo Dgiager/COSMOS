@@ -1,0 +1,2 @@
+COSMOS deployment trigger after repository rename.
+Owner and Developer: Danny Giager
